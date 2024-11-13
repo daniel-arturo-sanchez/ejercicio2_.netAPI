@@ -92,14 +92,20 @@ namespace WebApi1.Controllers
                 result= StatusCodes.Status406NotAcceptable.ToString();
             else 
             {
-                Game game = games.Find(g => g.Id == id);
-                if (game == null)
-                    result = StatusCodes.Status404NotFound.ToString();
-                else
+                if (ModelState.IsValid)
                 {
-                    game.Title = title;
-                    game.Genre = genre;
-                    result = StatusCodes.Status200OK.ToString();
+                    Game game = games.Find(g => g.Id == id);
+                    if (game == null)
+                        result = StatusCodes.Status404NotFound.ToString();
+                    else
+                    {
+                        game.Title = title;
+                        game.Genre = genre;
+                        result = StatusCodes.Status200OK.ToString();
+                    }
+                } else
+                {
+                    result = StatusCodes.Status406NotAcceptable.ToString();
                 }
             }
             return result;
