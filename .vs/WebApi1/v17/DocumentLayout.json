@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\artwo\\source\\repos\\WebApi1\\",
+  "WorkspaceRootPath": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|c:\\users\\artwo\\source\\repos\\webapi1\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|c:\\users\\2dawa\\documents\\dsw - desarrollo web entorno servidor\\ut03\\ejercicio2_.netapi\\controllers\\juegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|solutionrelative:controllers\\juegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|c:\\users\\2dawa\\documents\\dsw - desarrollo web entorno servidor\\ut03\\ejercicio2_.netapi\\models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|solutionrelative:models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|c:\\users\\2dawa\\documents\\dsw - desarrollo web entorno servidor\\ut03\\ejercicio2_.netapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|solutionrelative:controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|c:\\users\\artwo\\source\\repos\\webapi1\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|c:\\users\\2dawa\\documents\\dsw - desarrollo web entorno servidor\\ut03\\ejercicio2_.netapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD0A5E60-0F08-4797-8275-E24945579FE6}|WebApi1.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,34 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\Models\\Juego.cs",
+              "RelativeDocumentMoniker": "Models\\Juego.cs",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\Models\\Juego.cs",
+              "RelativeToolTip": "Models\\Juego.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:18:16.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JuegosController.cs",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\Controllers\\JuegosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JuegosController.cs",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\Controllers\\JuegosController.cs",
+              "RelativeToolTip": "Controllers\\JuegosController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwHsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:05:38.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\artwo\\source\\repos\\WebApi1\\Models\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Models\\Game.cs",
-              "ToolTip": "C:\\Users\\artwo\\source\\repos\\WebApi1\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\Models\\Game.cs",
               "RelativeToolTip": "Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABtAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T21:12:00.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GamesController.cs",
-              "DocumentMoniker": "C:\\Users\\artwo\\source\\repos\\WebApi1\\Controllers\\GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "Controllers\\GamesController.cs",
-              "ToolTip": "C:\\Users\\artwo\\source\\repos\\WebApi1\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\Controllers\\GamesController.cs",
               "RelativeToolTip": "Controllers\\GamesController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAiwEMAAABNAAAAAAAAAA==",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T21:11:39.143Z",
               "EditorCaption": ""

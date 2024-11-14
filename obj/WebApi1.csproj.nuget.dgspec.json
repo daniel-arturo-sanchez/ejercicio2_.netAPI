@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artwo\\source\\repos\\WebApi1\\WebApi1.csproj": {}
+    "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\WebApi1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artwo\\source\\repos\\WebApi1\\WebApi1.csproj": {
+    "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\WebApi1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artwo\\source\\repos\\WebApi1\\WebApi1.csproj",
+        "projectUniqueName": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\WebApi1.csproj",
         "projectName": "WebApi1",
-        "projectPath": "C:\\Users\\artwo\\source\\repos\\WebApi1\\WebApi1.csproj",
-        "packagesPath": "C:\\Users\\artwo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artwo\\source\\repos\\WebApi1\\obj\\",
+        "projectPath": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\WebApi1.csproj",
+        "packagesPath": "C:\\Users\\2dawa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2dawa\\Documents\\DSW - Desarrollo Web Entorno Servidor\\UT03\\ejercicio2_.netAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\artwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\2dawa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -74,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
